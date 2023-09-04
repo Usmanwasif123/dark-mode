@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Usmanwasif123/dark-mode/static/css/main.ccb317a8.css",
+    "main.js": "/Usmanwasif123/dark-mode/static/js/main.f08d1f14.js",
+    "index.html": "/Usmanwasif123/dark-mode/index.html",
+    "main.ccb317a8.css.map": "/Usmanwasif123/dark-mode/static/css/main.ccb317a8.css.map",
+    "main.f08d1f14.js.map": "/Usmanwasif123/dark-mode/static/js/main.f08d1f14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb317a8.css",
+    "static/js/main.f08d1f14.js"
+  ]
+}
